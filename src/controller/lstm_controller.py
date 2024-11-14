@@ -6,7 +6,6 @@ from ryu.lib import hub
 # Import the mitigation module or no mitigation from the controller folder
 import mitigation_module
 from datetime import datetime
-
 import pandas as pd
 import numpy as np
 import socket
@@ -117,14 +116,6 @@ class DDosMonitor01(mitigation_module.SimpleSwitch13):
                 byte_count_per_second = 0
                 byte_count_per_nsecond = 0
 
-#            print("{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}\n"
-#                        .format(timestamp, ev.msg.datapath.id, flow_id, ip_src, tp_src, ip_dst, tp_dst,
-#                                stat.match['ip_proto'], icmp_code, icmp_type,
-#                                stat.duration_sec, stat.duration_nsec,
-#                                stat.idle_timeout, stat.hard_timeout,
-#                                stat.flags, stat.packet_count, stat.byte_count,
-#                                packet_count_per_second, packet_count_per_nsecond,
-#                                byte_count_per_second, byte_count_per_nsecond))
             file0.write("{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}\n"
                         .format(timestamp, ev.msg.datapath.id, flow_id, ip_src, tp_src, ip_dst, tp_dst,
                                 stat.match['ip_proto'], icmp_code, icmp_type,
@@ -138,9 +129,6 @@ class DDosMonitor01(mitigation_module.SimpleSwitch13):
 
     def load_model(self):
         self.logger.info("Loading model...")
-        # # Load the scaler
-        # self.scalar = joblib.load('scaler.pkl')
-        # Load the model
         _lstm_model = load_model('best_lstm_model.h5')
         self.model_lstm = _lstm_model
 

@@ -1,0 +1,1196 @@
+[
+    {
+        "label": "switch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "switch",
+        "description": "switch",
+        "detail": "switch",
+        "documentation": {}
+    },
+    {
+        "label": "ofp_event",
+        "importPath": "ryu.controller",
+        "description": "ryu.controller",
+        "isExtraImport": true,
+        "detail": "ryu.controller",
+        "documentation": {}
+    },
+    {
+        "label": "ofp_event",
+        "importPath": "ryu.controller",
+        "description": "ryu.controller",
+        "isExtraImport": true,
+        "detail": "ryu.controller",
+        "documentation": {}
+    },
+    {
+        "label": "ofp_event",
+        "importPath": "ryu.controller",
+        "description": "ryu.controller",
+        "isExtraImport": true,
+        "detail": "ryu.controller",
+        "documentation": {}
+    },
+    {
+        "label": "ofp_event",
+        "importPath": "ryu.controller",
+        "description": "ryu.controller",
+        "isExtraImport": true,
+        "detail": "ryu.controller",
+        "documentation": {}
+    },
+    {
+        "label": "ofp_event",
+        "importPath": "ryu.controller",
+        "description": "ryu.controller",
+        "isExtraImport": true,
+        "detail": "ryu.controller",
+        "documentation": {}
+    },
+    {
+        "label": "MAIN_DISPATCHER",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "DEAD_DISPATCHER",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "set_ev_cls",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "MAIN_DISPATCHER",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "DEAD_DISPATCHER",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "set_ev_cls",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "MAIN_DISPATCHER",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "DEAD_DISPATCHER",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "set_ev_cls",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_DISPATCHER",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "MAIN_DISPATCHER",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "set_ev_cls",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_DISPATCHER",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "MAIN_DISPATCHER",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "set_ev_cls",
+        "importPath": "ryu.controller.handler",
+        "description": "ryu.controller.handler",
+        "isExtraImport": true,
+        "detail": "ryu.controller.handler",
+        "documentation": {}
+    },
+    {
+        "label": "hub",
+        "importPath": "ryu.lib",
+        "description": "ryu.lib",
+        "isExtraImport": true,
+        "detail": "ryu.lib",
+        "documentation": {}
+    },
+    {
+        "label": "hub",
+        "importPath": "ryu.lib",
+        "description": "ryu.lib",
+        "isExtraImport": true,
+        "detail": "ryu.lib",
+        "documentation": {}
+    },
+    {
+        "label": "hub",
+        "importPath": "ryu.lib",
+        "description": "ryu.lib",
+        "isExtraImport": true,
+        "detail": "ryu.lib",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pyplot",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_auc_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "roc_auc_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sequential",
+        "importPath": "tensorflow.keras.models",
+        "description": "tensorflow.keras.models",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.models",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Activation",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "LSTM",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dropout",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Dense",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Activation",
+        "importPath": "tensorflow.keras.layers",
+        "description": "tensorflow.keras.layers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.layers",
+        "documentation": {}
+    },
+    {
+        "label": "Adam",
+        "importPath": "tensorflow.keras.optimizers",
+        "description": "tensorflow.keras.optimizers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "Adam",
+        "importPath": "tensorflow.keras.optimizers",
+        "description": "tensorflow.keras.optimizers",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.optimizers",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "ModelCheckpoint",
+        "importPath": "tensorflow.keras.callbacks",
+        "description": "tensorflow.keras.callbacks",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "ModelCheckpoint",
+        "importPath": "tensorflow.keras.callbacks",
+        "description": "tensorflow.keras.callbacks",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "itertools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "itertools",
+        "description": "itertools",
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "mitigation_module",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mitigation_module",
+        "description": "mitigation_module",
+        "detail": "mitigation_module",
+        "documentation": {}
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "struct",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "struct",
+        "description": "struct",
+        "detail": "struct",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "app_manager",
+        "importPath": "ryu.base",
+        "description": "ryu.base",
+        "isExtraImport": true,
+        "detail": "ryu.base",
+        "documentation": {}
+    },
+    {
+        "label": "app_manager",
+        "importPath": "ryu.base",
+        "description": "ryu.base",
+        "isExtraImport": true,
+        "detail": "ryu.base",
+        "documentation": {}
+    },
+    {
+        "label": "ofproto_v1_3",
+        "importPath": "ryu.ofproto",
+        "description": "ryu.ofproto",
+        "isExtraImport": true,
+        "detail": "ryu.ofproto",
+        "documentation": {}
+    },
+    {
+        "label": "ofproto_v1_3",
+        "importPath": "ryu.ofproto",
+        "description": "ryu.ofproto",
+        "isExtraImport": true,
+        "detail": "ryu.ofproto",
+        "documentation": {}
+    },
+    {
+        "label": "packet",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "arp",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "ethernet",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "ether_types",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "in_proto",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "ipv4",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "icmp",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "tcp",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "udp",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "packet",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "ethernet",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "ether_types",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "in_proto",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "ipv4",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "icmp",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "tcp",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "udp",
+        "importPath": "ryu.lib.packet",
+        "description": "ryu.lib.packet",
+        "isExtraImport": true,
+        "detail": "ryu.lib.packet",
+        "documentation": {}
+    },
+    {
+        "label": "Topo",
+        "importPath": "mininet.topo",
+        "description": "mininet.topo",
+        "isExtraImport": true,
+        "detail": "mininet.topo",
+        "documentation": {}
+    },
+    {
+        "label": "Topo",
+        "importPath": "mininet.topo",
+        "description": "mininet.topo",
+        "isExtraImport": true,
+        "detail": "mininet.topo",
+        "documentation": {}
+    },
+    {
+        "label": "Mininet",
+        "importPath": "mininet.net",
+        "description": "mininet.net",
+        "isExtraImport": true,
+        "detail": "mininet.net",
+        "documentation": {}
+    },
+    {
+        "label": "Mininet",
+        "importPath": "mininet.net",
+        "description": "mininet.net",
+        "isExtraImport": true,
+        "detail": "mininet.net",
+        "documentation": {}
+    },
+    {
+        "label": "Mininet",
+        "importPath": "mininet.net",
+        "description": "mininet.net",
+        "isExtraImport": true,
+        "detail": "mininet.net",
+        "documentation": {}
+    },
+    {
+        "label": "TCLink",
+        "importPath": "mininet.link",
+        "description": "mininet.link",
+        "isExtraImport": true,
+        "detail": "mininet.link",
+        "documentation": {}
+    },
+    {
+        "label": "TCLink",
+        "importPath": "mininet.link",
+        "description": "mininet.link",
+        "isExtraImport": true,
+        "detail": "mininet.link",
+        "documentation": {}
+    },
+    {
+        "label": "TCLink",
+        "importPath": "mininet.link",
+        "description": "mininet.link",
+        "isExtraImport": true,
+        "detail": "mininet.link",
+        "documentation": {}
+    },
+    {
+        "label": "Intf",
+        "importPath": "mininet.link",
+        "description": "mininet.link",
+        "isExtraImport": true,
+        "detail": "mininet.link",
+        "documentation": {}
+    },
+    {
+        "label": "setLogLevel",
+        "importPath": "mininet.log",
+        "description": "mininet.log",
+        "isExtraImport": true,
+        "detail": "mininet.log",
+        "documentation": {}
+    },
+    {
+        "label": "setLogLevel",
+        "importPath": "mininet.log",
+        "description": "mininet.log",
+        "isExtraImport": true,
+        "detail": "mininet.log",
+        "documentation": {}
+    },
+    {
+        "label": "setLogLevel",
+        "importPath": "mininet.log",
+        "description": "mininet.log",
+        "isExtraImport": true,
+        "detail": "mininet.log",
+        "documentation": {}
+    },
+    {
+        "label": "info",
+        "importPath": "mininet.log",
+        "description": "mininet.log",
+        "isExtraImport": true,
+        "detail": "mininet.log",
+        "documentation": {}
+    },
+    {
+        "label": "OVSKernelSwitch",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "RemoteController",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "OVSKernelSwitch",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "RemoteController",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "Controller",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "RemoteController",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "OVSController",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "CPULimitedHost",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "Host",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "OVSKernelSwitch",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "UserSwitch",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "IVSSwitch",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "randrange",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "randrange",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "CLI",
+        "importPath": "mininet.cli",
+        "description": "mininet.cli",
+        "isExtraImport": true,
+        "detail": "mininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "call",
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "isExtraImport": true,
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "CollectTrainingStatsApp",
+        "kind": 6,
+        "importPath": "src.controller.collect_ddos_traffic",
+        "description": "src.controller.collect_ddos_traffic",
+        "peekOfCode": "class CollectTrainingStatsApp(switch.SimpleSwitch13):\n    def __init__(self, *args, **kwargs):\n        super(CollectTrainingStatsApp, self).__init__(*args, **kwargs)\n        self.datapaths = {}\n        self.monitor_thread = hub.spawn(self.monitor)\n    #Asynchronous message\n    @set_ev_cls(ofp_event.EventOFPStateChange,[MAIN_DISPATCHER, DEAD_DISPATCHER])\n    def state_change_handler(self, ev):\n        datapath = ev.datapath\n        if ev.state == MAIN_DISPATCHER:",
+        "detail": "src.controller.collect_ddos_traffic",
+        "documentation": {}
+    },
+    {
+        "label": "CollectTrainingStatsApp",
+        "kind": 6,
+        "importPath": "src.controller.collect_normal_traffic",
+        "description": "src.controller.collect_normal_traffic",
+        "peekOfCode": "class CollectTrainingStatsApp(switch.SimpleSwitch13):\n    def __init__(self, *args, **kwargs):\n        super(CollectTrainingStatsApp, self).__init__(*args, **kwargs)\n        self.datapaths = {}\n        self.monitor_thread = hub.spawn(self.monitor)\n        file0 = open(\"FlowStatsfile.csv\",\"w\")\n        file0.write('timestamp,datapath_id,flow_id,ip_src,tp_src,ip_dst,tp_dst,ip_proto,icmp_code,icmp_type,flow_duration_sec,flow_duration_nsec,idle_timeout,hard_timeout,flags,packet_count,byte_count,packet_count_per_second,packet_count_per_nsecond,byte_count_per_second,byte_count_per_nsecond,label\\n')\n        file0.close()\n    #Asynchronous message\n    @set_ev_cls(ofp_event.EventOFPStateChange,[MAIN_DISPATCHER, DEAD_DISPATCHER])",
+        "detail": "src.controller.collect_normal_traffic",
+        "documentation": {}
+    },
+    {
+        "label": "MachineLearning",
+        "kind": 6,
+        "importPath": "src.controller.lstm",
+        "description": "src.controller.lstm",
+        "peekOfCode": "class MachineLearning():\n    def __init__(self):\n        print(\"Loading dataset ...\")\n        # Update this line to read the uploaded file\n        # Upload CSV file\n        file_path1 = 'FlowStatsfile.csv'\n        file_path2 = 'FlowStatsfile_DDoS.csv'\n        # Load the first CSV file (limit to the first 100,000 rows)\n        df1 = pd.read_csv(file_path1, nrows=50000)\n        # Load the second CSV file (limit to the first 100,000 rows)",
+        "detail": "src.controller.lstm",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.controller.lstm",
+        "description": "src.controller.lstm",
+        "peekOfCode": "def main():\n    start = datetime.now()\n    ml = MachineLearning()\n    ml.flow_training(epochs=50)\n    end = datetime.now()\n    print(\"Training time: \", (end-start))\nif __name__ == \"__main__\":\n    main()",
+        "detail": "src.controller.lstm",
+        "documentation": {}
+    },
+    {
+        "label": "DDosMonitor01",
+        "kind": 6,
+        "importPath": "src.controller.lstm_controller",
+        "description": "src.controller.lstm_controller",
+        "peekOfCode": "class DDosMonitor01(mitigation_module.SimpleSwitch13):\n    def __init__(self, *args, **kwargs):\n        super(DDosMonitor01, self).__init__(*args, **kwargs)\n        self.datapaths = {}\n        self.monitor_thread = hub.spawn(self._monitor)\n        file0 = open(\"PredictFlowStatsfile.csv\", \"w\")\n        file0.write('timestamp,datapath_id,flow_id,ip_src,tp_src,ip_dst,tp_dst,ip_proto,icmp_code,icmp_type,flow_duration_sec,flow_duration_nsec,idle_timeout,hard_timeout,flags,packet_count,byte_count,packet_count_per_second,packet_count_per_nsecond,byte_count_per_second,byte_count_per_nsecond\\n')\n        file0.close()\n        self.scalar = None\n        self.model_lstm = None",
+        "detail": "src.controller.lstm_controller",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleSwitch13",
+        "kind": 6,
+        "importPath": "src.controller.mitigation_module",
+        "description": "src.controller.mitigation_module",
+        "peekOfCode": "class SimpleSwitch13(app_manager.RyuApp):\n    OFP_VERSIONS = [ofproto_v1_3.OFP_VERSION]\n    def __init__(self, *args, **kwargs):\n        super(SimpleSwitch13, self).__init__(*args, **kwargs)\n        self.mac_to_port = {}\n        self.mitigation = 0\n        self.arp_ip_to_port = {}\n    @set_ev_cls(ofp_event.EventOFPSwitchFeatures, CONFIG_DISPATCHER)\n    def switch_features_handler(self, ev):\n        datapath = ev.msg.datapath",
+        "detail": "src.controller.mitigation_module",
+        "documentation": {}
+    },
+    {
+        "label": "get_flow_number",
+        "kind": 2,
+        "importPath": "src.controller.mitigation_module",
+        "description": "src.controller.mitigation_module",
+        "peekOfCode": "def get_flow_number():\n    global FLOW_SERIAL_NO\n    FLOW_SERIAL_NO = FLOW_SERIAL_NO + 1\n    return FLOW_SERIAL_NO\nclass SimpleSwitch13(app_manager.RyuApp):\n    OFP_VERSIONS = [ofproto_v1_3.OFP_VERSION]\n    def __init__(self, *args, **kwargs):\n        super(SimpleSwitch13, self).__init__(*args, **kwargs)\n        self.mac_to_port = {}\n        self.mitigation = 0",
+        "detail": "src.controller.mitigation_module",
+        "documentation": {}
+    },
+    {
+        "label": "FLOW_SERIAL_NO",
+        "kind": 5,
+        "importPath": "src.controller.mitigation_module",
+        "description": "src.controller.mitigation_module",
+        "peekOfCode": "FLOW_SERIAL_NO = 0\ndef get_flow_number():\n    global FLOW_SERIAL_NO\n    FLOW_SERIAL_NO = FLOW_SERIAL_NO + 1\n    return FLOW_SERIAL_NO\nclass SimpleSwitch13(app_manager.RyuApp):\n    OFP_VERSIONS = [ofproto_v1_3.OFP_VERSION]\n    def __init__(self, *args, **kwargs):\n        super(SimpleSwitch13, self).__init__(*args, **kwargs)\n        self.mac_to_port = {}",
+        "detail": "src.controller.mitigation_module",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleSwitch13",
+        "kind": 6,
+        "importPath": "src.controller.switch",
+        "description": "src.controller.switch",
+        "peekOfCode": "class SimpleSwitch13(app_manager.RyuApp):\n    OFP_VERSIONS = [ofproto_v1_3.OFP_VERSION]\n    def __init__(self, *args, **kwargs):\n        super(SimpleSwitch13, self).__init__(*args, **kwargs)\n        self.mac_to_port = {}\n    @set_ev_cls(ofp_event.EventOFPSwitchFeatures, CONFIG_DISPATCHER)\n    def switch_features_handler(self, ev):\n        datapath = ev.msg.datapath\n        ofproto = datapath.ofproto\n        parser = datapath.ofproto_parser",
+        "detail": "src.controller.switch",
+        "documentation": {}
+    },
+    {
+        "label": "MachineLearning",
+        "kind": 6,
+        "importPath": "src.machine_learning.lstm",
+        "description": "src.machine_learning.lstm",
+        "peekOfCode": "class MachineLearning():\n    def __init__(self):\n        print(\"Loading dataset ...\")\n        # Update this line to read the uploaded file\n        # Upload CSV file\n        file_path1 = 'FlowStatsfile.csv'\n        file_path2 = 'FlowStatsfile_DDoS.csv'\n        # Load the first CSV file (limit to the first 100,000 rows)\n        df1 = pd.read_csv(file_path1, nrows=50000)\n        # Load the second CSV file (limit to the first 100,000 rows)",
+        "detail": "src.machine_learning.lstm",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.machine_learning.lstm",
+        "description": "src.machine_learning.lstm",
+        "peekOfCode": "def main():\n    start = datetime.now()\n    ml = MachineLearning()\n    ml.flow_training(epochs=50)\n    end = datetime.now()\n    print(\"Training time: \", (end-start))\nif __name__ == \"__main__\":\n    main()",
+        "detail": "src.machine_learning.lstm",
+        "documentation": {}
+    },
+    {
+        "label": "MyTopo",
+        "kind": 6,
+        "importPath": "src.mininet.generate_ddos_traffic",
+        "description": "src.mininet.generate_ddos_traffic",
+        "peekOfCode": "class MyTopo( Topo ):\n    def build( self ):\n         # Routers\n        r1 = self.addHost('r1', ip='192.168.1.1/24')\n        r2 = self.addHost('r2', ip='192.168.2.1/24')\n        r3 = self.addHost('r3', ip='192.168.3.1/24')\n        r4 = self.addHost('r4', ip='192.168.4.1/24')\n        # Switches\n        s1 = self.addSwitch('s1', cls=OVSKernelSwitch, protocols='OpenFlow13')\n        s2 = self.addSwitch('s2', cls=OVSKernelSwitch, protocols='OpenFlow13')",
+        "detail": "src.mininet.generate_ddos_traffic",
+        "documentation": {}
+    },
+    {
+        "label": "ip_generator",
+        "kind": 2,
+        "importPath": "src.mininet.generate_ddos_traffic",
+        "description": "src.mininet.generate_ddos_traffic",
+        "peekOfCode": "def ip_generator():\n    return \".\".join([\"192\", \"168\", str(randrange(1, 4)), str(randrange(10, 11))])\ndef startNetwork():\n    #print \"Starting Network\"\n    topo = MyTopo()\n    c0 = RemoteController('c0', ip='192.168.245.128', port=6653)\n    net = Mininet(topo=topo, link=TCLink, controller=c0)\n    net.start()\n    h1 = net.get('h1')\n    h2 = net.get('h2')",
+        "detail": "src.mininet.generate_ddos_traffic",
+        "documentation": {}
+    },
+    {
+        "label": "startNetwork",
+        "kind": 2,
+        "importPath": "src.mininet.generate_ddos_traffic",
+        "description": "src.mininet.generate_ddos_traffic",
+        "peekOfCode": "def startNetwork():\n    #print \"Starting Network\"\n    topo = MyTopo()\n    c0 = RemoteController('c0', ip='192.168.245.128', port=6653)\n    net = Mininet(topo=topo, link=TCLink, controller=c0)\n    net.start()\n    h1 = net.get('h1')\n    h2 = net.get('h2')\n    h3 = net.get('h3')\n    h4 = net.get('h4')",
+        "detail": "src.mininet.generate_ddos_traffic",
+        "documentation": {}
+    },
+    {
+        "label": "MyTopo",
+        "kind": 6,
+        "importPath": "src.mininet.generate_normal_traffic",
+        "description": "src.mininet.generate_normal_traffic",
+        "peekOfCode": "class MyTopo(Topo):\n    def build(self):\n        # Routers\n        r1 = self.addHost('r1', ip='192.168.1.1/24')\n        r2 = self.addHost('r2', ip='192.168.2.1/24')\n        r3 = self.addHost('r3', ip='192.168.3.1/24')\n        r4 = self.addHost('r4', ip='192.168.4.1/24')\n        # Switches\n        s1 = self.addSwitch('s1', cls=OVSKernelSwitch, protocols='OpenFlow13')\n        s2 = self.addSwitch('s2', cls=OVSKernelSwitch, protocols='OpenFlow13')",
+        "detail": "src.mininet.generate_normal_traffic",
+        "documentation": {}
+    },
+    {
+        "label": "ip_generator",
+        "kind": 2,
+        "importPath": "src.mininet.generate_normal_traffic",
+        "description": "src.mininet.generate_normal_traffic",
+        "peekOfCode": "def ip_generator():\n    return \".\".join([\"192\", \"168\", str(randrange(1, 4)), str(randrange(10, 11))])\ndef startNetwork():\n    topo = MyTopo()\n    c0 = RemoteController('c0', ip='192.168.245.128', port=6653)\n    net = Mininet(topo=topo, link=TCLink, controller=c0)\n    net.start()\n    h1 = net.get('h1')\n    h2 = net.get('h2')\n    h3 = net.get('h3')",
+        "detail": "src.mininet.generate_normal_traffic",
+        "documentation": {}
+    },
+    {
+        "label": "startNetwork",
+        "kind": 2,
+        "importPath": "src.mininet.generate_normal_traffic",
+        "description": "src.mininet.generate_normal_traffic",
+        "peekOfCode": "def startNetwork():\n    topo = MyTopo()\n    c0 = RemoteController('c0', ip='192.168.245.128', port=6653)\n    net = Mininet(topo=topo, link=TCLink, controller=c0)\n    net.start()\n    h1 = net.get('h1')\n    h2 = net.get('h2')\n    h3 = net.get('h3')\n    h4 = net.get('h4')\n    r1 = net.get('r1')",
+        "detail": "src.mininet.generate_normal_traffic",
+        "documentation": {}
+    },
+    {
+        "label": "myNetwork",
+        "kind": 2,
+        "importPath": "src.topology",
+        "description": "src.topology",
+        "peekOfCode": "def myNetwork():\n    net = Mininet( topo=None,\n                   build=False, controller=RemoteController,\n                   ipBase='10.0.0.0/8')\n    net.addController('c1',controller=RemoteController,ip='127.0.0.1',port=6653)\n    info( '*** Adding controller\\n' )\n    info('*** Add switches\\n')\n    s1 = net.addSwitch('s1', cls=OVSKernelSwitch, failMode='standalone')\n    s2 = net.addSwitch('s2', cls=OVSKernelSwitch, failMode='standalone')\n    s3 = net.addSwitch('s3', cls=OVSKernelSwitch, failMode='standalone')",
+        "detail": "src.topology",
+        "documentation": {}
+    }
+]
